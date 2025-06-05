@@ -11,4 +11,10 @@ Run the game with Python 3:
 python3 infinite_antivirus.py
 ```
 
+For a graphical interface, run:
+
+```bash
+python3 infinite_antivirus_gui.py
+```
+
 Type `help` during the game to see available commands.
